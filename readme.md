@@ -8,4 +8,4 @@ The [PlantWorld.ino](PlantWorld.ino) arduino code, was designed to provide our "
   - The building of the prototype used the following online tools:
     - Vertical Servo Bracket: https://www.thingiverse.com/thing:2293613
     - MakerCase: https://en.makercase.com/#/
-    - GearGenerator: geargenerator.com
+    - GearGenerator: https://geargenerator.com
