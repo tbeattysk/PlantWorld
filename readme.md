@@ -11,6 +11,6 @@ The [PlantWorld.ino](PlantWorld.ino) arduino code, was designed to provide our "
     - GearGenerator: https://geargenerator.com
 
 ## State Machine Flow
-![World State Management Flow Chart](/images/WorldState.jpg)
-![Tree State Management Flow Chart](/images/TreedState.jpg)
-![Cam State Management Flow Chart](/images/CamState.jpg)
+![World State Management Flow Chart](/images/WorldState.jpg =150x)
+![Tree State Management Flow Chart](/images/TreeState.jpg =150x)
+![Cam State Management Flow Chart](/images/CamState.jpg =150x)
