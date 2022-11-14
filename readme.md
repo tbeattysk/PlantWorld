@@ -9,3 +9,8 @@ The [PlantWorld.ino](PlantWorld.ino) arduino code, was designed to provide our "
     - Vertical Servo Bracket: https://www.thingiverse.com/thing:2293613
     - MakerCase: https://en.makercase.com/#/
     - GearGenerator: https://geargenerator.com
+
+## State Machine Flow
+![World State Management Flow Chart](/images/WorldState.jpg)
+![Tree State Management Flow Chart](/images/TreedState.jpg)
+![Cam State Management Flow Chart](/images/CamState.jpg)
