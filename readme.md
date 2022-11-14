@@ -6,6 +6,6 @@ The [PlantWorld.ino](PlantWorld.ino) arduino code, was designed to provide our "
 
   - Oscillation code used from: [npucket/arduinoAnimation](https://github.com/npuckett/arduinoAnimation).
   - The building of the prototype used the following online tools:
-    -- Vertical Servo Bracket: https://www.thingiverse.com/thing:2293613
-    -- MakerCase: https://en.makercase.com/#/
-    -- GearGenerator: geargenerator.com
+    - Vertical Servo Bracket: https://www.thingiverse.com/thing:2293613
+    - MakerCase: https://en.makercase.com/#/
+    - GearGenerator: geargenerator.com
